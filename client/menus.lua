@@ -1,4 +1,0 @@
-function OpenMast(payload)
-
-
-end
